@@ -1,0 +1,13 @@
+\\Mac\Home\Documents\codefellows\401\dotnet-labs\UnitTesting\bin\Debug\netcoreapp3.1\UnitTesting.exe
+\\Mac\Home\Documents\codefellows\401\dotnet-labs\UnitTesting\bin\Debug\netcoreapp3.1\UnitTesting.deps.json
+\\Mac\Home\Documents\codefellows\401\dotnet-labs\UnitTesting\bin\Debug\netcoreapp3.1\UnitTesting.runtimeconfig.json
+\\Mac\Home\Documents\codefellows\401\dotnet-labs\UnitTesting\bin\Debug\netcoreapp3.1\UnitTesting.runtimeconfig.dev.json
+\\Mac\Home\Documents\codefellows\401\dotnet-labs\UnitTesting\bin\Debug\netcoreapp3.1\UnitTesting.dll
+\\Mac\Home\Documents\codefellows\401\dotnet-labs\UnitTesting\bin\Debug\netcoreapp3.1\UnitTesting.pdb
+\\Mac\Home\Documents\codefellows\401\dotnet-labs\UnitTesting\obj\Debug\netcoreapp3.1\UnitTesting.csprojAssemblyReference.cache
+\\Mac\Home\Documents\codefellows\401\dotnet-labs\UnitTesting\obj\Debug\netcoreapp3.1\UnitTesting.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\codefellows\401\dotnet-labs\UnitTesting\obj\Debug\netcoreapp3.1\UnitTesting.AssemblyInfo.cs
+\\Mac\Home\Documents\codefellows\401\dotnet-labs\UnitTesting\obj\Debug\netcoreapp3.1\UnitTesting.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\codefellows\401\dotnet-labs\UnitTesting\obj\Debug\netcoreapp3.1\UnitTesting.dll
+\\Mac\Home\Documents\codefellows\401\dotnet-labs\UnitTesting\obj\Debug\netcoreapp3.1\UnitTesting.pdb
+\\Mac\Home\Documents\codefellows\401\dotnet-labs\UnitTesting\obj\Debug\netcoreapp3.1\UnitTesting.genruntimeconfig.cache
