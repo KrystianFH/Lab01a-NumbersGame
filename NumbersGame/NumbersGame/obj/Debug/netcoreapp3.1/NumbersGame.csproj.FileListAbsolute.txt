@@ -11,3 +11,16 @@
 \\Mac\Home\Documents\codefellows\401\dotnet-labs\NumbersGame\NumbersGame\obj\Debug\netcoreapp3.1\NumbersGame.dll
 \\Mac\Home\Documents\codefellows\401\dotnet-labs\NumbersGame\NumbersGame\obj\Debug\netcoreapp3.1\NumbersGame.pdb
 \\Mac\Home\Documents\codefellows\401\dotnet-labs\NumbersGame\NumbersGame\obj\Debug\netcoreapp3.1\NumbersGame.genruntimeconfig.cache
+\\Mac\Home\Documents\codefellows\401\Dotnet\NumbersGame\Lab01a-NumbersGame\NumbersGame\NumbersGame\bin\Debug\netcoreapp3.1\NumbersGame.exe
+\\Mac\Home\Documents\codefellows\401\Dotnet\NumbersGame\Lab01a-NumbersGame\NumbersGame\NumbersGame\bin\Debug\netcoreapp3.1\NumbersGame.deps.json
+\\Mac\Home\Documents\codefellows\401\Dotnet\NumbersGame\Lab01a-NumbersGame\NumbersGame\NumbersGame\bin\Debug\netcoreapp3.1\NumbersGame.runtimeconfig.json
+\\Mac\Home\Documents\codefellows\401\Dotnet\NumbersGame\Lab01a-NumbersGame\NumbersGame\NumbersGame\bin\Debug\netcoreapp3.1\NumbersGame.runtimeconfig.dev.json
+\\Mac\Home\Documents\codefellows\401\Dotnet\NumbersGame\Lab01a-NumbersGame\NumbersGame\NumbersGame\bin\Debug\netcoreapp3.1\NumbersGame.dll
+\\Mac\Home\Documents\codefellows\401\Dotnet\NumbersGame\Lab01a-NumbersGame\NumbersGame\NumbersGame\bin\Debug\netcoreapp3.1\NumbersGame.pdb
+\\Mac\Home\Documents\codefellows\401\Dotnet\NumbersGame\Lab01a-NumbersGame\NumbersGame\NumbersGame\obj\Debug\netcoreapp3.1\NumbersGame.csprojAssemblyReference.cache
+\\Mac\Home\Documents\codefellows\401\Dotnet\NumbersGame\Lab01a-NumbersGame\NumbersGame\NumbersGame\obj\Debug\netcoreapp3.1\NumbersGame.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\codefellows\401\Dotnet\NumbersGame\Lab01a-NumbersGame\NumbersGame\NumbersGame\obj\Debug\netcoreapp3.1\NumbersGame.AssemblyInfo.cs
+\\Mac\Home\Documents\codefellows\401\Dotnet\NumbersGame\Lab01a-NumbersGame\NumbersGame\NumbersGame\obj\Debug\netcoreapp3.1\NumbersGame.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\codefellows\401\Dotnet\NumbersGame\Lab01a-NumbersGame\NumbersGame\NumbersGame\obj\Debug\netcoreapp3.1\NumbersGame.dll
+\\Mac\Home\Documents\codefellows\401\Dotnet\NumbersGame\Lab01a-NumbersGame\NumbersGame\NumbersGame\obj\Debug\netcoreapp3.1\NumbersGame.pdb
+\\Mac\Home\Documents\codefellows\401\Dotnet\NumbersGame\Lab01a-NumbersGame\NumbersGame\NumbersGame\obj\Debug\netcoreapp3.1\NumbersGame.genruntimeconfig.cache

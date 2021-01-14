@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wV9Hvg84jZfIJIIBB8oiEZs/SWf6N6Z/nGpdZsYA+/at4R4ye8jmVTeV7sLVrO+YZ+q07wOQJyp5Ryz9AfZJ3g==",
+  "dgSpecHash": "SwLMikXRefQYa/3vNcvqUpalBMNx8MPN5RlidqI8fgKuNH8U6bYAKpYk3fQzepppQSTwGI0mSATKJKqHZiryhA==",
   "success": true,
-  "projectFilePath": "\\\\Mac\\Home\\Documents\\codefellows\\401\\dotnet-labs\\NumbersGame\\NumbersGame\\NumbersGame.csproj",
+  "projectFilePath": "\\\\Mac\\Home\\Documents\\codefellows\\401\\Dotnet\\NumbersGame\\Lab01a-NumbersGame\\NumbersGame\\NumbersGame\\NumbersGame.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

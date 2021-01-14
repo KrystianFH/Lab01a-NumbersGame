@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\Mac\\Home\\Documents\\codefellows\\401\\dotnet-labs\\NumbersGame\\NumbersGame\\NumbersGame.csproj",
+      "projectUniqueName": "\\\\Mac\\Home\\Documents\\codefellows\\401\\Dotnet\\NumbersGame\\Lab01a-NumbersGame\\NumbersGame\\NumbersGame\\NumbersGame.csproj",
       "projectName": "NumbersGame",
-      "projectPath": "\\\\Mac\\Home\\Documents\\codefellows\\401\\dotnet-labs\\NumbersGame\\NumbersGame\\NumbersGame.csproj",
+      "projectPath": "\\\\Mac\\Home\\Documents\\codefellows\\401\\Dotnet\\NumbersGame\\Lab01a-NumbersGame\\NumbersGame\\NumbersGame\\NumbersGame.csproj",
       "packagesPath": "C:\\Users\\krystianfrancuz\\.nuget\\packages\\",
-      "outputPath": "\\\\Mac\\Home\\Documents\\codefellows\\401\\dotnet-labs\\NumbersGame\\NumbersGame\\obj\\",
+      "outputPath": "\\\\Mac\\Home\\Documents\\codefellows\\401\\Dotnet\\NumbersGame\\Lab01a-NumbersGame\\NumbersGame\\NumbersGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\krystianfrancuz\\AppData\\Roaming\\NuGet\\NuGet.Config",
